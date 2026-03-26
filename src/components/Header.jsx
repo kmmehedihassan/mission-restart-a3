@@ -63,7 +63,7 @@ export default function Header() {
 
                     {/* GitHub contribute button */}
                     <a
-                        href="https://github.com/SaikatKarar/mission-restart-a3"
+                        href="https://github.com/kmmehedihassan/mission-restart-a3"
                         target="_blank"
                         rel="noreferrer"
                         aria-label="Contribute on GitHub"
