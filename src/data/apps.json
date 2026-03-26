@@ -1,0 +1,662 @@
+[
+    {
+        "id": 1,
+        "title": "Forest: Focus for Productivity",
+        "image": "/icon-005.webp",
+        "companyName": "Forest Inc.",
+        "description": "Stay focused and grow virtual trees while working.",
+        "size": 25,
+        "reviews": 12000,
+        "ratingAvg": 4.9,
+        "downloads": 7000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200
+            },
+            {
+                "name": "2 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 500
+            },
+            {
+                "name": "4 star",
+                "count": 2000
+            },
+            {
+                "name": "5 star",
+                "count": 9000
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "SmPlan: ToDo List with Reminder",
+        "image": "/icon-006.webp",
+        "companyName": "Smart Planner Ltd.",
+        "description": "SmPlan is more than a simple to-do list — it is a complete personal planning system designed to keep you organized, focused, and in control of your day. The app allows you to create tasks with custom priorities, attach deadlines, and set smart reminders so nothing ever slips through the cracks. Whether you are managing a single project or juggling multiple responsibilities at once, SmPlan adapts to your workflow without getting in the way.\n\nOne of SmPlan's most powerful features is its reminder engine. Reminders can be scheduled by time, location, or recurrence — daily, weekly, or on any custom pattern you define. The app intelligently surfaces the most urgent tasks at the top of your list so that your attention always goes where it matters most. You can also group tasks into projects and assign tags, making it easy to filter your workload by context, urgency, or category at a glance.\n\nSmPlan is built with a clean, distraction-free interface that lets you capture ideas instantly and refine them later. The dark-mode-friendly design and smooth animations make it a pleasure to use throughout the day. Cloud sync keeps your tasks up to date across all your devices, and the built-in progress tracker gives you a satisfying overview of what you have accomplished. SmPlan turns your daily chaos into a clear, manageable plan — one task at a time.",
+        "size": 30,
+        "reviews": 9500,
+        "ratingAvg": 4.9,
+        "downloads": 8000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 150
+            },
+            {
+                "name": "2 star",
+                "count": 250
+            },
+            {
+                "name": "3 star",
+                "count": 600
+            },
+            {
+                "name": "4 star",
+                "count": 1800
+            },
+            {
+                "name": "5 star",
+                "count": 6700
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "FLIP - Focus Timer for Study",
+        "image": "/icon-007.webp",
+        "companyName": "Flip Tech",
+        "description": "Boost study focus with a smart timer.",
+        "size": 22,
+        "reviews": 6000,
+        "ratingAvg": 4.3,
+        "downloads": 3000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400
+            },
+            {
+                "name": "2 star",
+                "count": 500
+            },
+            {
+                "name": "3 star",
+                "count": 900
+            },
+            {
+                "name": "4 star",
+                "count": 2000
+            },
+            {
+                "name": "5 star",
+                "count": 2200
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Pomocat - Cute Pomodoro Timer",
+        "image": "/icon-008.webp",
+        "companyName": "Pomocat Studio",
+        "description": "Cute timer to improve productivity.",
+        "size": 20,
+        "reviews": 5000,
+        "ratingAvg": 4.0,
+        "downloads": 5000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600
+            },
+            {
+                "name": "2 star",
+                "count": 700
+            },
+            {
+                "name": "3 star",
+                "count": 1200
+            },
+            {
+                "name": "4 star",
+                "count": 1500
+            },
+            {
+                "name": "5 star",
+                "count": 1000
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Time Planner: Schedule & Tasks",
+        "image": "/icon-009.webp",
+        "companyName": "TimeSoft",
+        "description": "Plan your daily schedule easily.",
+        "size": 28,
+        "reviews": 7200,
+        "ratingAvg": 4.3,
+        "downloads": 4000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300
+            },
+            {
+                "name": "2 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 800
+            },
+            {
+                "name": "4 star",
+                "count": 2200
+            },
+            {
+                "name": "5 star",
+                "count": 3500
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Flip Clock: World Clock",
+        "image": "/icon-010.webp",
+        "companyName": "Clockify",
+        "description": "Stylish flip clock with world time.",
+        "size": 18,
+        "reviews": 8800,
+        "ratingAvg": 4.0,
+        "downloads": 9000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 700
+            },
+            {
+                "name": "2 star",
+                "count": 800
+            },
+            {
+                "name": "3 star",
+                "count": 1500
+            },
+            {
+                "name": "4 star",
+                "count": 3000
+            },
+            {
+                "name": "5 star",
+                "count": 2800
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Morning Habits - Daily Routine",
+        "image": "/icon-011.webp",
+        "companyName": "Habit Lab",
+        "description": "Build strong daily habits.",
+        "size": 26,
+        "reviews": 5400,
+        "ratingAvg": 4.2,
+        "downloads": 3000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200
+            },
+            {
+                "name": "2 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 700
+            },
+            {
+                "name": "4 star",
+                "count": 2000
+            },
+            {
+                "name": "5 star",
+                "count": 2200
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Focus Plant: Pomodoro Forest",
+        "image": "/icon-012.webp",
+        "companyName": "Focus Labs",
+        "description": "Stay productive with a growing plant.",
+        "size": 24,
+        "reviews": 6700,
+        "ratingAvg": 4.4,
+        "downloads": 7000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 250
+            },
+            {
+                "name": "2 star",
+                "count": 350
+            },
+            {
+                "name": "3 star",
+                "count": 900
+            },
+            {
+                "name": "4 star",
+                "count": 2500
+            },
+            {
+                "name": "5 star",
+                "count": 2700
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Notion - Notes & Tasks",
+        "image": "/icon-005.webp",
+        "companyName": "Notion Labs",
+        "description": "All-in-one workspace for notes and tasks.",
+        "size": 45,
+        "reviews": 20000,
+        "ratingAvg": 4.8,
+        "downloads": 10000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300
+            },
+            {
+                "name": "2 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 800
+            },
+            {
+                "name": "4 star",
+                "count": 3000
+            },
+            {
+                "name": "5 star",
+                "count": 15500
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Google Keep",
+        "image": "/icon-006.webp",
+        "companyName": "Google LLC",
+        "description": "Quick notes and reminders.",
+        "size": 20,
+        "reviews": 25000,
+        "ratingAvg": 4.7,
+        "downloads": 15000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400
+            },
+            {
+                "name": "2 star",
+                "count": 500
+            },
+            {
+                "name": "3 star",
+                "count": 1000
+            },
+            {
+                "name": "4 star",
+                "count": 4000
+            },
+            {
+                "name": "5 star",
+                "count": 19000
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Todoist",
+        "image": "/icon-007.webp",
+        "companyName": "Doist",
+        "description": "Powerful task manager.",
+        "size": 35,
+        "reviews": 18000,
+        "ratingAvg": 4.6,
+        "downloads": 9000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300
+            },
+            {
+                "name": "2 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 900
+            },
+            {
+                "name": "4 star",
+                "count": 3000
+            },
+            {
+                "name": "5 star",
+                "count": 13400
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "TickTick",
+        "image": "/icon-008.webp",
+        "companyName": "TickTick Team",
+        "description": "To-do list and habit tracker.",
+        "size": 33,
+        "reviews": 15000,
+        "ratingAvg": 4.5,
+        "downloads": 8500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 350
+            },
+            {
+                "name": "2 star",
+                "count": 450
+            },
+            {
+                "name": "3 star",
+                "count": 1000
+            },
+            {
+                "name": "4 star",
+                "count": 3200
+            },
+            {
+                "name": "5 star",
+                "count": 10000
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Evernote",
+        "image": "/icon-009.webp",
+        "companyName": "Evernote Corp",
+        "description": "Note-taking and organization.",
+        "size": 50,
+        "reviews": 22000,
+        "ratingAvg": 4.4,
+        "downloads": 12000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600
+            },
+            {
+                "name": "2 star",
+                "count": 700
+            },
+            {
+                "name": "3 star",
+                "count": 1200
+            },
+            {
+                "name": "4 star",
+                "count": 4000
+            },
+            {
+                "name": "5 star",
+                "count": 15500
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Microsoft To Do",
+        "image": "/icon-010.webp",
+        "companyName": "Microsoft",
+        "description": "Simple and smart to-do list.",
+        "size": 27,
+        "reviews": 17000,
+        "ratingAvg": 4.5,
+        "downloads": 11000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400
+            },
+            {
+                "name": "2 star",
+                "count": 500
+            },
+            {
+                "name": "3 star",
+                "count": 900
+            },
+            {
+                "name": "4 star",
+                "count": 3500
+            },
+            {
+                "name": "5 star",
+                "count": 11700
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Habitica",
+        "image": "/icon-011.webp",
+        "companyName": "Habitica Inc.",
+        "description": "Gamify your habits.",
+        "size": 29,
+        "reviews": 9000,
+        "ratingAvg": 4.3,
+        "downloads": 6000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300
+            },
+            {
+                "name": "2 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 800
+            },
+            {
+                "name": "4 star",
+                "count": 2000
+            },
+            {
+                "name": "5 star",
+                "count": 5500
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Clockify",
+        "image": "/icon-012.webp",
+        "companyName": "Clockify Inc.",
+        "description": "Time tracking software.",
+        "size": 21,
+        "reviews": 10000,
+        "ratingAvg": 4.4,
+        "downloads": 7500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 250
+            },
+            {
+                "name": "2 star",
+                "count": 350
+            },
+            {
+                "name": "3 star",
+                "count": 900
+            },
+            {
+                "name": "4 star",
+                "count": 2500
+            },
+            {
+                "name": "5 star",
+                "count": 6000
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "RescueTime",
+        "image": "/icon-005.webp",
+        "companyName": "RescueTime",
+        "description": "Track your productivity.",
+        "size": 40,
+        "reviews": 8000,
+        "ratingAvg": 4.2,
+        "downloads": 5000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300
+            },
+            {
+                "name": "2 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 700
+            },
+            {
+                "name": "4 star",
+                "count": 2000
+            },
+            {
+                "name": "5 star",
+                "count": 4600
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Focus To-Do",
+        "image": "/icon-006.webp",
+        "companyName": "Focus Team",
+        "description": "Pomodoro timer and tasks.",
+        "size": 26,
+        "reviews": 11000,
+        "ratingAvg": 4.5,
+        "downloads": 9000000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200
+            },
+            {
+                "name": "2 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 800
+            },
+            {
+                "name": "4 star",
+                "count": 3000
+            },
+            {
+                "name": "5 star",
+                "count": 6700
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Any.do",
+        "image": "/icon-007.webp",
+        "companyName": "Any.do",
+        "description": "Simple to-do list app.",
+        "size": 23,
+        "reviews": 14000,
+        "ratingAvg": 4.4,
+        "downloads": 9500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300
+            },
+            {
+                "name": "2 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 900
+            },
+            {
+                "name": "4 star",
+                "count": 3200
+            },
+            {
+                "name": "5 star",
+                "count": 9200
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "ZenKit",
+        "image": "/icon-008.webp",
+        "companyName": "ZenKit Team",
+        "description": "Project management tool.",
+        "size": 38,
+        "reviews": 7000,
+        "ratingAvg": 4.3,
+        "downloads": 4500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 250
+            },
+            {
+                "name": "2 star",
+                "count": 350
+            },
+            {
+                "name": "3 star",
+                "count": 700
+            },
+            {
+                "name": "4 star",
+                "count": 2000
+            },
+            {
+                "name": "5 star",
+                "count": 3700
+            }
+        ]
+    }
+]
