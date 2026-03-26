@@ -15,7 +15,7 @@ const SOCIAL_LINKS = [
     { href: "https://linkedin.com", label: "LinkedIn",    icon: <FaLinkedinIn size={15} /> },
     { href: "https://facebook.com", label: "Facebook",    icon: <FaFacebookF size={15} /> },
     {
-        href: "https://github.com/SaikatKarar/mission-restart-a3",
+        href: "https://github.com/kmmehedihassan/mission-restart-a3",
         label: "GitHub",
         icon: <FaGithub size={15} />,
     },
@@ -125,7 +125,7 @@ export default function Footer() {
 
                     {/* Contribute link */}
                     <a
-                        href="https://github.com/SaikatKarar/mission-restart-a3"
+                        href="https://github.com/kmmehedihassan/mission-restart-a3"
                         target="_blank"
                         rel="noreferrer"
                         className="inline-flex items-center gap-1.5 text-sm text-indigo-400 hover:text-indigo-300 font-medium transition-colors duration-200 group mt-2"
@@ -161,7 +161,7 @@ export default function Footer() {
             <div className="border-t border-white/5 py-5 px-6">
                 <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-3 text-xs text-gray-600">
                     <p>
-                        Copyright &copy; {new Date().getFullYear()} AppHub &mdash; All rights reserved
+                        Copyright &copy; 2026 AppHub &mdash; All rights reserved
                     </p>
                     <p className="flex items-center gap-1">
                         Made with
